@@ -1,3 +1,6 @@
+Bad Behavior for Gryphon is a minor change to Bad Behavior that allows it to work within Gryphon's plugin and package system. Really, only the base include has changed but I can't distribute this with Gryphon, so here it sits.
+
+
 === Bad Behavior ===
 Tags: comment,trackback,referrer,spam,robot,antispam
 Contributors: error, markjaquith, skeltoac
