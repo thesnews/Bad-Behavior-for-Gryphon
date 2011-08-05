@@ -35,6 +35,7 @@ function bb2_whitelist($package)
 	// Includes one example of whitelisting by user agent.
 	// All are commented out.
 	$bb2_whitelist_user_agents = array(
+		"Mozilla/5.0 (compatible; mon.itor.us - free monitoring service; http://mon.itor.us)"
 	//	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) It's me, let me in",
 	);
 
